@@ -40,6 +40,6 @@ application:
 eureka:
   client: ${eureka-client}
 
-feign:
-  hystrix:
-    enabled: true
+#feign:
+#  hystrix:
+#    enabled: true
